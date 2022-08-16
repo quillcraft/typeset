@@ -7,7 +7,7 @@ Some rules for typesetting russian texts.
 const nbsp = '\xA0'
 
 // or HTML entity
-const nbsp = '&shy;'
+const nbsp = '&nbsp;'
 ```
 
 1. Attach one-letter prepositions to the following word with a non-breaking space:
