@@ -1,4 +1,4 @@
-# Typeset
+# Typeset Cyrillic
 
 Some rules for typesetting russian texts.
 
